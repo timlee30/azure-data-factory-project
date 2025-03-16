@@ -3,5 +3,5 @@
 ## Project Overview
 This project involves Azure Data Factory pipelines and Power BI visualizations.
 
-## Screenshot
+## Architecture
 ![Project Screenshot](image.png)
